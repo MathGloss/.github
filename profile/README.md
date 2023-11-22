@@ -1,0 +1,1 @@
+MathGloss is a project to organize math and turn natural language into a _lingua franca_ for different formal systems. It is made by Lucy Horowitz and Valeria de Paiva. Check out the [abstract](https://europroofnet.github.io/cambridge-2023/#horowitz) of our talk at EuroProofNet workshop in Cambridge from September, and this [writeup](https://arxiv.org/abs/2311.12649)!
